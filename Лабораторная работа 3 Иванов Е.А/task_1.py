@@ -12,3 +12,4 @@ for item in search_items_list:
         print(f"Первое вхождение товара '{item}' имеет индекс {index_item}.")
     else:
         print(f"Товар '{item}' не найден в списке.")
+
