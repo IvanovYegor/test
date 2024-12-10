@@ -54,3 +54,4 @@ frequency = calculate_frequency(letter_count)
 for letter, freq in frequency.items():
     print(f"{letter}: {freq}")
 # TODO Распечатайте в столбик букву и её частоту в тексте
+
